@@ -1,0 +1,1 @@
+# SQL-Aggregation-Functions-Practical-Task
